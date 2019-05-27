@@ -15,3 +15,7 @@ The sample demonstrates how to scan barcodes from fast moving objects by adjusti
     ![Android Camera2 Barcode](https://www.codepool.biz/wp-content/uploads/2019/05/android-camera2-barcode.gif)
 
 
+## Blog
+[Android Barcode Detection from Fast Moving Objects](https://www.codepool.biz/android-barcode-detection-fast-moving-object.html)
+
+
