@@ -371,7 +371,7 @@ public class Camera2BasicFragment extends Fragment
         mTextView = view.findViewById(R.id.tv_result);
         mToneGenerator = new ToneGenerator(AudioManager.STREAM_NOTIFICATION, 100);
         try {
-            mBarcodeReader = new BarcodeReader("f0068MgAAAMlq0CAdpJAwy+PWRcmp7sSNHjttU+qBnT8OgF8JhZGyIggXp1mAHQ4rxXhhsWEMXbEWuh5KAjRuHE05dgaUDh8=");
+            mBarcodeReader = new BarcodeReader("LICENSE-KEY"); // https://www.dynamsoft.com/CustomerPortal/Portal/Triallicense.aspx
         }
         catch (Exception e) {
             throw new RuntimeException(e);
